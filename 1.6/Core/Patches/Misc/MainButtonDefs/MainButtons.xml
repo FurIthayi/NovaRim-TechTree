@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class = "PatchOperationReplace">
+    <xpath>/Defs/MainButtonDef[defName="Research"]/tabWindowClass</xpath>
+    <value>
+      <tabWindowClass>NovaRim.Eureka.MainTabWindow_Research</tabWindowClass>
+    </value>
+  </Operation>
+</Patch>

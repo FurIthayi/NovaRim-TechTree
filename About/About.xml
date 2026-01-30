@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModMetaData>
+	<name>NovaRim - Eureka</name>
+	<packageId>FurIthayi.NovaRim.Eureka</packageId>
+	<author>FurIthayi</author>
+	<modVersion>1.0.01</modVersion>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<description>A completely remade technology tech tree. Now, you will progress through history from prehistory to a transcendent future taking large amount of time between eras to enjoy each one.</description>
+	<modDependencies/>
+	<loadAfter>
+		<li>Ludeon.RimWorld</li>
+		<li>Ludeon.RimWorld.Royalty</li>
+		<li>Ludeon.RimWorld.Ideology</li>
+		<li>Ludeon.RimWorld.Biotech</li>
+		<li>Ludeon.RimWorld.Anomaly</li>
+		<li>Ludeon.RimWorld.Odyssey</li>
+	</loadAfter>
+</ModMetaData>
